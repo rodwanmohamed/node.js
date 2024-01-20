@@ -1,0 +1,14 @@
+C:\Users\espada\node.js\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\espada\node.js\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\espada\node.js\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\espada\node.js\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\espada\node.js\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
