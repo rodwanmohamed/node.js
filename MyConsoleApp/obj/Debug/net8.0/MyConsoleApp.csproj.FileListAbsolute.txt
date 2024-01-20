@@ -12,3 +12,4 @@ C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
 C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\espada\node.js\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
